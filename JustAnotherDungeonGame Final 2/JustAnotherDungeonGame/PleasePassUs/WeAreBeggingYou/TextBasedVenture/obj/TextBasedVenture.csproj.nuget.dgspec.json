@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/ProjectMorio/TextBasedVenture/TextBasedVenture/TextBasedVenture.csproj": {}
+  },
+  "projects": {
+    "/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/ProjectMorio/TextBasedVenture/TextBasedVenture/TextBasedVenture.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/ProjectMorio/TextBasedVenture/TextBasedVenture/TextBasedVenture.csproj",
+        "projectName": "TextBasedVenture",
+        "projectPath": "/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/ProjectMorio/TextBasedVenture/TextBasedVenture/TextBasedVenture.csproj",
+        "packagesPath": "/Users/williamlovelace/.nuget/packages/",
+        "outputPath": "/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/ProjectMorio/TextBasedVenture/TextBasedVenture/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/williamlovelace/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

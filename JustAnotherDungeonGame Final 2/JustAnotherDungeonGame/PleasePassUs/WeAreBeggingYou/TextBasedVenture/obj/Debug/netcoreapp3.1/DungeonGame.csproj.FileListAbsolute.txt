@@ -1,0 +1,97 @@
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/ProjectMorio/TextBasedVenture/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.deps.json
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/ProjectMorio/TextBasedVenture/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.runtimeconfig.json
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/ProjectMorio/TextBasedVenture/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.runtimeconfig.dev.json
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/ProjectMorio/TextBasedVenture/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.dll
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/ProjectMorio/TextBasedVenture/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.pdb
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/ProjectMorio/TextBasedVenture/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.csprojAssemblyReference.cache
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/ProjectMorio/TextBasedVenture/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.AssemblyInfoInputs.cache
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/ProjectMorio/TextBasedVenture/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.AssemblyInfo.cs
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/ProjectMorio/TextBasedVenture/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.csproj.CoreCompileInputs.cache
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/ProjectMorio/TextBasedVenture/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.dll
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/ProjectMorio/TextBasedVenture/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.pdb
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/ProjectMorio/TextBasedVenture/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.genruntimeconfig.cache
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/PleasePassUs/TextBasedVenture/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.deps.json
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/PleasePassUs/TextBasedVenture/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.runtimeconfig.json
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/PleasePassUs/TextBasedVenture/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.runtimeconfig.dev.json
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/PleasePassUs/TextBasedVenture/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.dll
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/PleasePassUs/TextBasedVenture/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.pdb
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/PleasePassUs/TextBasedVenture/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.csprojAssemblyReference.cache
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/PleasePassUs/TextBasedVenture/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.AssemblyInfoInputs.cache
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/PleasePassUs/TextBasedVenture/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.AssemblyInfo.cs
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/PleasePassUs/TextBasedVenture/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.csproj.CoreCompileInputs.cache
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/PleasePassUs/TextBasedVenture/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.dll
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/PleasePassUs/TextBasedVenture/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.pdb
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/PleasePassUs/TextBasedVenture/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.genruntimeconfig.cache
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame 2/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.deps.json
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame 2/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.runtimeconfig.json
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame 2/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.runtimeconfig.dev.json
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame 2/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.dll
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame 2/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.pdb
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame 2/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.csprojAssemblyReference.cache
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame 2/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.AssemblyInfoInputs.cache
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame 2/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.AssemblyInfo.cs
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame 2/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.csproj.CoreCompileInputs.cache
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame 2/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.dll
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame 2/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.pdb
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame 2/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.genruntimeconfig.cache
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.deps.json
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.runtimeconfig.json
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.runtimeconfig.dev.json
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.dll
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.pdb
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.csprojAssemblyReference.cache
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.AssemblyInfoInputs.cache
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.AssemblyInfo.cs
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.csproj.CoreCompileInputs.cache
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.dll
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.pdb
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.genruntimeconfig.cache
+C:/Users/jjama/Downloads/JustAnotherDungeonGame 3/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.exe
+C:/Users/jjama/Downloads/JustAnotherDungeonGame 3/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.deps.json
+C:/Users/jjama/Downloads/JustAnotherDungeonGame 3/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.runtimeconfig.json
+C:/Users/jjama/Downloads/JustAnotherDungeonGame 3/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.runtimeconfig.dev.json
+C:/Users/jjama/Downloads/JustAnotherDungeonGame 3/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.dll
+C:/Users/jjama/Downloads/JustAnotherDungeonGame 3/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.pdb
+C:/Users/jjama/Downloads/JustAnotherDungeonGame 3/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.csprojAssemblyReference.cache
+C:/Users/jjama/Downloads/JustAnotherDungeonGame 3/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.AssemblyInfoInputs.cache
+C:/Users/jjama/Downloads/JustAnotherDungeonGame 3/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.AssemblyInfo.cs
+C:/Users/jjama/Downloads/JustAnotherDungeonGame 3/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.csproj.CoreCompileInputs.cache
+C:/Users/jjama/Downloads/JustAnotherDungeonGame 3/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.dll
+C:/Users/jjama/Downloads/JustAnotherDungeonGame 3/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.pdb
+C:/Users/jjama/Downloads/JustAnotherDungeonGame 3/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.genruntimeconfig.cache
+/Users/williamlovelace/Downloads/JustAnotherDungeonGame 3/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.deps.json
+/Users/williamlovelace/Downloads/JustAnotherDungeonGame 3/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.runtimeconfig.json
+/Users/williamlovelace/Downloads/JustAnotherDungeonGame 3/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.runtimeconfig.dev.json
+/Users/williamlovelace/Downloads/JustAnotherDungeonGame 3/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.dll
+/Users/williamlovelace/Downloads/JustAnotherDungeonGame 3/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.pdb
+/Users/williamlovelace/Downloads/JustAnotherDungeonGame 3/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.csprojAssemblyReference.cache
+/Users/williamlovelace/Downloads/JustAnotherDungeonGame 3/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.AssemblyInfoInputs.cache
+/Users/williamlovelace/Downloads/JustAnotherDungeonGame 3/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.AssemblyInfo.cs
+/Users/williamlovelace/Downloads/JustAnotherDungeonGame 3/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.csproj.CoreCompileInputs.cache
+/Users/williamlovelace/Downloads/JustAnotherDungeonGame 3/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.dll
+/Users/williamlovelace/Downloads/JustAnotherDungeonGame 3/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.pdb
+/Users/williamlovelace/Downloads/JustAnotherDungeonGame 3/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.genruntimeconfig.cache
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame Final/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.deps.json
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame Final/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.runtimeconfig.json
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame Final/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.runtimeconfig.dev.json
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame Final/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.dll
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame Final/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.pdb
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame Final/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.csprojAssemblyReference.cache
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame Final/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.AssemblyInfoInputs.cache
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame Final/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.AssemblyInfo.cs
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame Final/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.csproj.CoreCompileInputs.cache
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame Final/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.dll
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame Final/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.pdb
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame Final/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.genruntimeconfig.cache
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame Final 2/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.deps.json
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame Final 2/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.runtimeconfig.json
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame Final 2/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.runtimeconfig.dev.json
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame Final 2/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.dll
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame Final 2/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/bin/Debug/netcoreapp3.1/DungeonGame.pdb
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame Final 2/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.csprojAssemblyReference.cache
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame Final 2/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.AssemblyInfoInputs.cache
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame Final 2/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.AssemblyInfo.cs
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame Final 2/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.csproj.CoreCompileInputs.cache
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame Final 2/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.dll
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame Final 2/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.pdb
+/Users/williamlovelace/OneDrive/OOD/JustAnotherDungeonGame Final 2/JustAnotherDungeonGame/PleasePassUs/WeAreBeggingYou/TextBasedVenture/obj/Debug/netcoreapp3.1/DungeonGame.genruntimeconfig.cache
